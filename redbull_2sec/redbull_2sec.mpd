@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!-- MPD file Generated with GPAC version 0.5.1-DEV-rev4229 -->
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.5S" type="static" mediaPresentationDuration="PT1H26M" profiles="urn:mpeg:dash:profile:isoff-main:2011">
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" minBufferTime="PT1.5S" type="static" mediaPresentationDuration="PT6M40S" profiles="urn:mpeg:dash:profile:isoff-main:2011">
  <BaseURL>./</BaseURL> 
  <BaseURL>http://www-itec.uni-klu.ac.at/ftp/datasets/mmsys13/</BaseURL>
  <BaseURL>http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/mmsys13/</BaseURL>
