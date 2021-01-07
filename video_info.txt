@@ -1,0 +1,38 @@
+Tears of Steel:
+Link: http://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd
+Video length: 12:14
+Number of chunks: init + 245 
+Available bitrate and resolutions:
+686685  214x512
+1116150 294x704
+686685  214x512
+1929169 428x1024
+2362822 482x1152
+2470094 534x1280
+
+
+Big Buck Bunny:
+Link: https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+Number of chunks: init + 159
+Available bitrates: 
+254320   (200k)     320x180     --
+507246   (400k)     320x180     yes
+759798   (600k)     480x720     --
+1013310  (800k)     640x360     yes
+1254758  (1000k)    640x360     yes
+1883700  (1500k)    768x432     yes
+3134488  (2500k)    1024x576    yes
+4952892  (4000k)    1280x720    yes
+9914554  (8000k)    1920x1080   --
+14931538 (12000k)   3840x2160   --
+
+Red Bull:
+Link: http://ftp.itec.aau.at/datasets/mmsys13/redbull_2sec.mpd
+Number of chunks - init+ 2622
+Available bitrate and resolutions:
+300
+700
+1200
+2000
+3000
+4000
