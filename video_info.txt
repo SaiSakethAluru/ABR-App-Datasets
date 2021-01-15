@@ -1,38 +1,41 @@
-Tears of Steel:
-Link: http://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd
-Video length: 12:14
-Number of chunks: init + 245 
-Available bitrate and resolutions:
-686685  214x512
-1116150 294x704
-686685  214x512
-1929169 428x1024
-2362822 482x1152
-2470094 534x1280
+Video -1 (Envivio)
+Source: https://github.com/hongzimao/pensieve/tree/master/video_server
+Playing from: saisakethaluru.github.io/envivio/Manifest.mpd
+Video length: 3:13
+Number of chunks: init + 49
+Available bitrates = {300.0, 750.0, 1200.0, 1850.0, 2850.0, 4300.0}
 
+Video - 2 (Big Buck Bunny): 
+Source: https://dash.akamaized.net/akamai/bbb_30fps/
+Playing from: https://saisakethaluru.github.io/bbb_30fps/Manifest.mpd
+Video length: 10:34
+Number of chunks: init+159
+Available bitrates = {507.246,1013.310,1254.758,1883.700,3134.488,4952.892}
 
-Big Buck Bunny:
-Link: https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
-Number of chunks: init + 159
-Available bitrates: 
-254320   (200k)     320x180     --
-507246   (400k)     320x180     yes
-759798   (600k)     480x720     --
-1013310  (800k)     640x360     yes
-1254758  (1000k)    640x360     yes
-1883700  (1500k)    768x432     yes
-3134488  (2500k)    1024x576    yes
-4952892  (4000k)    1280x720    yes
-9914554  (8000k)    1920x1080   --
-14931538 (12000k)   3840x2160   --
+Video - 3 (Redbull):
+Source: http://ftp.itec.aau.at/datasets/mmsys13/
+Playing from: https://saisakethaluru.github.io/redbull_2sec/Manifest.mpd
+Video length: 6:40 (original video contains ~ 1hr 30 mins long video, but only first 200 chunks are considered here)
+Number of chunks: init + 200
+Available bitrates = {300.795,700.051,1179.845,1993.730,2995.671,3992.758}
 
-Red Bull:
-Link: http://ftp.itec.aau.at/datasets/mmsys13/redbull_2sec.mpd
-Number of chunks - init+ 2622
-Available bitrate and resolutions:
-300
-700
-1200
-2000
-3000
-4000
+Video - 4 (Tears of Steel):
+Source: http://www.bok.net/dash/tears_of_steel/cleartext/stream.mpd
+Playing from: https://saisakethaluru.github.io/tears_of_steel/Manifest.mpd
+Video Length: 12:14
+Number of chunks: init + 245
+Available bitrates = {686.685,686.685,111.6150,1929.169,2362.822,2470.094}
+
+Video - 5 (Elephant's Dream):
+Source: http://ftp.itec.aau.at/datasets/DASHDataset2014/ElephantsDream/1sec/
+Playing from: https://saisakethaluru.github.io/elephants_dream/Manifest.mpd
+Video Length: 10:52
+Number of chunks: init + 653
+Available bitrates = {344.976, 808.384, 1273.596, 2186.563, 3127.680, 4516.590}
+
+Video - 6 (Of Forest and Men):
+Source: http://ftp.itec.aau.at/datasets/DASHDataset2014/OfForestAndMen/1sec/
+Playing from: https://saisakethaluru.github.io/forest/Manifest.mpd
+Video Length: 7:33
+Number of chunks: init + 454
+Available bitrates = {279.652, 836.887, 1282.108, 1779.588, 2568.145, 3894.863}
